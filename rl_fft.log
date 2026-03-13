@@ -1,0 +1,6 @@
+Loading image and PSF...
+  image shape: (190, 652, 960), PSF shape: (31, 21, 21)
+Running FFT RL up to 50 iterations, checkpoints: [5, 10, 20, 30, 50]
+  iter 1/50
+  iter 2/50
+  iter 3/50
