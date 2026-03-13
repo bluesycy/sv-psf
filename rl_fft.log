@@ -4,3 +4,56 @@ Running FFT RL up to 50 iterations, checkpoints: [5, 10, 20, 30, 50]
   iter 1/50
   iter 2/50
   iter 3/50
+  iter 4/50
+  iter 5/50
+  --> Saved checkpoint: /nfs/data28/chuyu/data/20260109_095628/reference_stack_epi_RL_deconv_scratch_iter5.nrrd
+  iter 6/50
+  iter 7/50
+  iter 8/50
+  iter 9/50
+  iter 10/50
+  --> Saved checkpoint: /nfs/data28/chuyu/data/20260109_095628/reference_stack_epi_RL_deconv_scratch_iter10.nrrd
+  iter 11/50
+  iter 12/50
+  iter 13/50
+  iter 14/50
+  iter 15/50
+  iter 16/50
+  iter 17/50
+  iter 18/50
+  iter 19/50
+  iter 20/50
+  --> Saved checkpoint: /nfs/data28/chuyu/data/20260109_095628/reference_stack_epi_RL_deconv_scratch_iter20.nrrd
+  iter 21/50
+  iter 22/50
+  iter 23/50
+  iter 24/50
+  iter 25/50
+  iter 26/50
+  iter 27/50
+  iter 28/50
+  iter 29/50
+  iter 30/50
+  --> Saved checkpoint: /nfs/data28/chuyu/data/20260109_095628/reference_stack_epi_RL_deconv_scratch_iter30.nrrd
+  iter 31/50
+  iter 32/50
+  iter 33/50
+  iter 34/50
+  iter 35/50
+  iter 36/50
+  iter 37/50
+  iter 38/50
+  iter 39/50
+  iter 40/50
+  iter 41/50
+  iter 42/50
+  iter 43/50
+  iter 44/50
+  iter 45/50
+  iter 46/50
+  iter 47/50
+  iter 48/50
+  iter 49/50
+  iter 50/50
+  --> Saved checkpoint: /nfs/data28/chuyu/data/20260109_095628/reference_stack_epi_RL_deconv_scratch_iter50.nrrd
+Done.

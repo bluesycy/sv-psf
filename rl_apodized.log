@@ -1,0 +1,13 @@
+Loading image and PSF...
+  image shape: (190, 652, 960),  PSF shape: (31, 21, 21)
+  background estimate: 0.00000,  taper margins (voxels): [19, 65, 96]
+Precomputing PSF FFTs...
+Running apodized FFT RL up to 50 iterations, checkpoints: [5, 10, 20, 30, 50]
+  iter 1/50
+  iter 2/50
+  iter 3/50
+  iter 4/50
+  iter 5/50
+  --> Saved: /nfs/data28/chuyu/data/20260109_095628/reference_stack_epi_RL_deconv_apodized_iter5.nrrd
+  iter 6/50
+  iter 7/50
